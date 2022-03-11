@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+}
+.top_cont{
+    display: flex;
+    justify-content: space-between;
+}
+.nav_cont{
+    display: flex;
+    width: 10rem;
+    justify-content: space-between;
+    align-items: center;
+}
+.img_cont{
+    margin-bottom: 2rem;
+}
+.img_content{
+    width: 100%;
+    height: 100%;
+}
+.img_content {
+    width: 100%;
+}
+.content_cont{
+    display: flex;
+    text-align: center;
+}
+.similar_cont>img{
+    width: 4rem;
+}
+.coppyright_cont{
+    background-color: black;
+    color: aliceblue;
+    height: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
